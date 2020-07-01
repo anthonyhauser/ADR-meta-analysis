@@ -6,4 +6,4 @@ We searched several bibliographic databases, including Embase and Medline, from 
 The model assessed both the baseline (before treatment) prevalence of eight NRTI DRMs and the prevalence after 3 years, by first-line regimen.
 
 
-![alt text](https://github.com/anthonyhauser/ADR-meta-analysis/blob/master/Fig1.PNG?raw=true)
+![alt text](https://github.com/anthonyhauser/ADR-meta-analysis/blob/master/github_graph.tiff?raw=true)
